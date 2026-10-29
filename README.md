@@ -25,7 +25,7 @@ Download the latest version of RUACH for your platform:
 ## Features
 
 ### ⚡ High-Throughput Performance
-- **Zero-Copy Streaming**: Streams data directly between disk storage and network sockets, saturating physical local bandwidth without memory overhead.
+- **Hardware Line-Rate Streaming**: Streams data directly across physical network interfaces at raw hardware speed, saturating local Wi-Fi or Ethernet bandwidth with minimal system overhead.
 - **No File Size Limits**: Move massive 4K video files, disk images, and multi-gigabyte project directories smoothly.
 - **Reliable Background Execution**: Built-in service handling ensures long-running transfers complete without disruption from operating system battery optimizers.
 
