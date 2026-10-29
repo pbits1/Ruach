@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "buildNumber": 1,
-  "releaseDate": "2026-10-16",
+  "releaseDate": "2026-10-29",
   "downloadUrl": "https://github.com/pbits1/Ruach/releases/latest/download/Ruach.apk",
   "changelog": [
     "High-speed local streaming across Android, Linux, and Windows",
@@ -11,6 +11,6 @@
     "General performance and reliability improvements"
   ],
   "minimumVersion": "1.0",
-  "fileSha256": "2460d73f7222703e9f868b83fb9c000f736376a85c5cbf4b9c6fb27352f67f7b",
-  "manifestSignature": "342ttM2OcqEyJMNvmDfFMJUWBKPzRc3twplrJCAvWHvhe3HUPOECgyncaqtAef/siplHBrqSHJWljlxVx781Bg=="
+  "fileSha256": "90e8fce480db7317223f04b78abdc371243f09386be73ac88bb9705599d5e4bd",
+  "manifestSignature": "78bClGOCj/wqDVhDISjDBF6NaHt1DWF68MeMb+UA6xPL3xhtdPrrEOzPnolBNquixRVTZwxWJ7XAwwQYZ1UxAQ=="
 }
