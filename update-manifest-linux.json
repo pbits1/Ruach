@@ -1,0 +1,17 @@
+{
+  "version": "1.1",
+  "buildNumber": 2,
+  "releaseDate": "2026-11-23",
+  "downloadUrl": "https://github.com/pbits1/Ruach/releases/latest/download/Ruach.deb",
+  "changelog": [
+    "High-speed local streaming across Android, Linux, and Windows",
+    "Optimized transfer engine with lower memory footprint",
+    "Enhanced background transfer stability and progress monitoring",
+    "Automatic update detection and live version tracking",
+    "General performance and reliability improvements"
+  ],
+  "minimumVersion": "1.0",
+  "fileSha256": "75a7eed6b1d23231983224c00115c41fe97c296c63c46e8c384a1b96c8aa4fd5",
+  "manifestSignature": "zDjh7mrjH5fSd1CctCKKsGjKruonpM1Ip9CvX6MkjyX6srSgAS/0CZu+RQ15s7EfmII9rRbuNCUUAzQvZN+rDg==",
+  "platform": "linux"
+}

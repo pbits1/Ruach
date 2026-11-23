@@ -1,0 +1,17 @@
+{
+  "version": "1.1",
+  "buildNumber": 2,
+  "releaseDate": "2026-11-23",
+  "downloadUrl": "https://github.com/pbits1/Ruach/releases/latest/download/Ruach.apk",
+  "changelog": [
+    "High-speed local streaming across Android, Linux, and Windows",
+    "Optimized transfer engine with lower memory footprint",
+    "Enhanced background transfer stability and progress monitoring",
+    "Automatic update detection and live version tracking",
+    "General performance and reliability improvements"
+  ],
+  "minimumVersion": "1.0",
+  "fileSha256": "ee1ad508d10e171b1bf165247f9e98ea236f53eeba5d82d21a2649fc5a9fa674",
+  "manifestSignature": "zMCaUzVh5IgA9rPain1M/ZP77eIxu6hM6cKZMawSXew+v7y3otyNrXYxV/NTdoqbyyDufSl/7G9n6BUn1jDVCQ==",
+  "platform": "android"
+}

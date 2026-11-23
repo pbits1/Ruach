@@ -1,0 +1,17 @@
+{
+  "version": "1.1",
+  "buildNumber": 2,
+  "releaseDate": "2026-11-23",
+  "downloadUrl": "https://github.com/pbits1/Ruach/releases/latest/download/Ruach.msi",
+  "changelog": [
+    "High-speed local streaming across Android, Linux, and Windows",
+    "Optimized transfer engine with lower memory footprint",
+    "Enhanced background transfer stability and progress monitoring",
+    "Automatic update detection and live version tracking",
+    "General performance and reliability improvements"
+  ],
+  "minimumVersion": "1.0",
+  "fileSha256": "14614cd0f3d05b564268131ba3c1d3b8e0450b07ed121519f302b7aa2db11037",
+  "manifestSignature": "74LZkq6ldfbARGX3WMBndfD1xDjOWSffKPkDNvgh2312za6yofeX5UihSrddv5m9vvhmHvFy2/jiFvJIefvQAg==",
+  "platform": "windows"
+}
