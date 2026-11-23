@@ -1,6 +1,6 @@
 {
-  "version": "1.1",
-  "buildNumber": 2,
+  "version": "1.2",
+  "buildNumber": 3,
   "releaseDate": "2026-11-23",
   "downloadUrl": "https://github.com/pbits1/Ruach/releases/latest/download/Ruach.deb",
   "changelog": [
@@ -11,7 +11,7 @@
     "General performance and reliability improvements"
   ],
   "minimumVersion": "1.0",
-  "fileSha256": "75a7eed6b1d23231983224c00115c41fe97c296c63c46e8c384a1b96c8aa4fd5",
-  "manifestSignature": "zDjh7mrjH5fSd1CctCKKsGjKruonpM1Ip9CvX6MkjyX6srSgAS/0CZu+RQ15s7EfmII9rRbuNCUUAzQvZN+rDg==",
+  "fileSha256": "fb983e1d2390ac1e63748164b83ae816b19a2fc5b18d342f008a49d7bf2efc26",
+  "manifestSignature": "dk6vzW2SJFEytGJm7UUhuidZd4uZmopJbyl3hb/146fK6a7hBara+VdH7r1M0k56/plMg5iHPFTbgsSWVUuKDw==",
   "platform": "linux"
 }

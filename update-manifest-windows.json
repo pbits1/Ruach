@@ -1,6 +1,6 @@
 {
-  "version": "1.1",
-  "buildNumber": 2,
+  "version": "1.2",
+  "buildNumber": 3,
   "releaseDate": "2026-11-23",
   "downloadUrl": "https://github.com/pbits1/Ruach/releases/latest/download/Ruach.msi",
   "changelog": [
@@ -11,7 +11,7 @@
     "General performance and reliability improvements"
   ],
   "minimumVersion": "1.0",
-  "fileSha256": "14614cd0f3d05b564268131ba3c1d3b8e0450b07ed121519f302b7aa2db11037",
-  "manifestSignature": "74LZkq6ldfbARGX3WMBndfD1xDjOWSffKPkDNvgh2312za6yofeX5UihSrddv5m9vvhmHvFy2/jiFvJIefvQAg==",
+  "fileSha256": "a8ab00686a67f7fb3fb836dcd6f0ebd9de9a170f785599a11572e43186615483",
+  "manifestSignature": "KkOIpz/hWA2zgXpXPNfD45jJ8BVrYaCaXmczlgCtY0j/dtd3qWlfZHSqz7vHLNSB+G9/+VA9ppN+e520bn52DA==",
   "platform": "windows"
 }

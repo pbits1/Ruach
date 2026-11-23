@@ -3,7 +3,7 @@
 > **Direct, high-speed, offline file sharing across Android, Windows, and Linux.**  
 > No cloud. No accounts. No tracking. Pure local peer-to-peer transfer.
 
-[![Latest Release](https://img.shields.io/badge/Release-v1.1-00E5FF?style=flat-square&logo=github)](https://github.com/pbits1/Ruach/releases/latest)
+[![Latest Release](https://img.shields.io/badge/Release-v1.2-00E5FF?style=flat-square&logo=github)](https://github.com/pbits1/Ruach/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-00E676?style=flat-square)](LICENSE)
 [![Platforms](https://img.shields.io/badge/Platforms-Android%20%7C%20Windows%20%7C%20Linux-7C4DFF?style=flat-square)](#downloads)
 

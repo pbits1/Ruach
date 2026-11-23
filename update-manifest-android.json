@@ -1,6 +1,6 @@
 {
-  "version": "1.1",
-  "buildNumber": 2,
+  "version": "1.2",
+  "buildNumber": 3,
   "releaseDate": "2026-11-23",
   "downloadUrl": "https://github.com/pbits1/Ruach/releases/latest/download/Ruach.apk",
   "changelog": [
@@ -11,7 +11,7 @@
     "General performance and reliability improvements"
   ],
   "minimumVersion": "1.0",
-  "fileSha256": "ee1ad508d10e171b1bf165247f9e98ea236f53eeba5d82d21a2649fc5a9fa674",
-  "manifestSignature": "zMCaUzVh5IgA9rPain1M/ZP77eIxu6hM6cKZMawSXew+v7y3otyNrXYxV/NTdoqbyyDufSl/7G9n6BUn1jDVCQ==",
+  "fileSha256": "6c4a81ea85ecbb7ea67b416e4cf601960a3e5cb5f147f79dd69233f749561a7c",
+  "manifestSignature": "th+TPgwmRXc75kTGqdBIdaHWgpR6fsG0tXW2Qit/lAtUYUkJXQJDVEXUCFnzRcunTwtXajmdn6IaLQ79RmCiDQ==",
   "platform": "android"
 }
