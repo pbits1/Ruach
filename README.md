@@ -4,7 +4,7 @@
 > No cloud. No accounts. No tracking. Pure local peer-to-peer transfer.
 
 [![Latest Release](https://img.shields.io/badge/Release-v1.2-00E5FF?style=flat-square&logo=github)](https://github.com/pbits1/Ruach/releases/latest)
-[![License: MIT](https://img.shields.io/badge/License-MIT-00E676?style=flat-square)](LICENSE)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-1E293B?style=flat-square)](LICENSE)
 [![Platforms](https://img.shields.io/badge/Platforms-Android%20%7C%20Windows%20%7C%20Linux-7C4DFF?style=flat-square)](#downloads)
 
 ---
@@ -82,5 +82,5 @@ Get-FileHash .\Ruach.msi -Algorithm SHA256
 
 ## License
 
-RUACH is open-source software licensed under the [MIT License](LICENSE).  
+RUACH is proprietary software distributed exclusively as official binary packages under the [Proprietary Software License](LICENSE).  
 Copyright &copy; 2026 Ekangi Systems Private Limited. All rights reserved.
